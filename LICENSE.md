@@ -1,4 +1,4 @@
-# 
+# Enhance DaVinci Resolve for macOS with DaVinci Resolve for macOS vip LUT: auto-tune & social-media-export, the #1 lut. Includes auto-tune and social-media-export for a smoother
 
 
 
